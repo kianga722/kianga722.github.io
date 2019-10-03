@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/motivator.3eda30c3.png"
   },
   {
-    "revision": "ab19b4d8dfb8ba458244",
-    "url": "/portfolio/static/css/main.10d5f0f0.chunk.css"
+    "revision": "9f221f04880568d86299",
+    "url": "/portfolio/static/css/main.728804fa.chunk.css"
   },
   {
-    "revision": "9b88a55d5fbbfc5c6f40",
-    "url": "/portfolio/static/js/1.9b88a55d.chunk.js"
+    "revision": "573ce585ae93f5cb32eb",
+    "url": "/portfolio/static/js/1.573ce585.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
@@ -20,12 +20,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/profPic.93e9ce59.png"
   },
   {
+    "revision": "94e0bca849c9f8ebcb97e9854bf31b2c",
+    "url": "/portfolio/static/media/531workout.94e0bca8.png"
+  },
+  {
     "revision": "88e4e5aa079ff87ea138e268849576f6",
     "url": "/portfolio/static/media/layoutscroll.88e4e5aa.png"
   },
   {
-    "revision": "ab19b4d8dfb8ba458244",
-    "url": "/portfolio/static/js/main.ab19b4d8.chunk.js"
+    "revision": "9f221f04880568d86299",
+    "url": "/portfolio/static/js/main.9f221f04.chunk.js"
   },
   {
     "revision": "28a0221b9c238189616ab3beeed39454",
@@ -48,7 +52,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/yourinfo.506d024d.png"
   },
   {
-    "revision": "86cbec6f6c42b664222da028fdb37967",
+    "revision": "e3c0a1474f987a621e3d21c3aa9ffc38",
     "url": "/portfolio/index.html"
   }
 ];
